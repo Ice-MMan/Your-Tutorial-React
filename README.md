@@ -1,12 +1,4 @@
-# API Base URLs
 
-## https://tutorials-api-cw.herokuapp.com/api/tutorials
-
-## https://axios-example-cw.herokuapp.com/api/tutorials
-
-## https://cw-axios-example.herokuapp.com/api/tutorials
-
-### API ENDPOINTS
 
 - GET `api/tutorials` get all Tutorials
 - GET `api/tutorials/:id` get Tutorial by id
